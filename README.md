@@ -53,7 +53,7 @@ In your project README, include:
 
 - Instructions to run the application
 
-- sent to: jivirasgal@gmail.com
+- sent to: antariks.recruitment@gmail.com or (admin@antariks.id optional) 
 
 ## 📝 Notes
 
