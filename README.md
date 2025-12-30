@@ -4,13 +4,15 @@ Welcome to this simple yet effective technical test designed to check your engin
 
 ## 🎯 Objective
 
--  Create a simple CRUD application with one table:
+-  Create a simple CRUD application:
 
-- Product (string)
+- Product
 
-- Amount (integer)
+- Amount 
+  
+- Qty 
 
-- Framework & tech stack are completely up to you.
+- Framework & tech stack are completely up to you (Laravel preferable).
 
 ## 🧪 Main Criteria
 
@@ -47,17 +49,17 @@ In your project README, include:
 
 - Live deployed link (Vercel or any hosting provider)
 
-- The deployed URL must also
-
 - Short explanation (inside your project README)
 
 - Instructions to run the application
+
+- format: Test - Full Stack Developer = Yourname
 
 - sent to: antariks.recruitment@gmail.com or (admin@antariks.id optional) 
 
 ## 📝 Notes
 
-During the interview, we will review and critique:
+During internal review, the dev team will assess:
 
 - Your UI/UX decisions
 
@@ -67,5 +69,5 @@ During the interview, we will review and critique:
 
 - How you articulate your thought process and decision-making
 
-
+If your submission meets our expectations, you will be contacted for a follow-up technical interview.
 Good luck!
