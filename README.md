@@ -53,7 +53,7 @@ In your project README, include:
 
 - Instructions to run the application
 
-- format: Test - Full Stack Developer = Yourname
+- format: Test - Full Stack Developer - Yourname
 
 - sent to: antariks.recruitment@gmail.com or (admin@antariks.id optional) 
 
